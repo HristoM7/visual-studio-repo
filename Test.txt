@@ -1,2 +1,4 @@
 testing
 Change in repo 2
+Промяна директно в GitHub (Remote)
+Row 3 added
